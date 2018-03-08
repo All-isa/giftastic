@@ -1,0 +1,25 @@
+body {
+    background: lightcyan;
+    font: white;
+}
+
+h1 {
+    font-family: amatic sc;
+    text-align: left;
+    font-size: 64px;
+}
+
+.item {
+    float: left;
+    padding:15px;
+}
+
+.emotion {
+    font-family:marvel;
+    font-size:20px;
+}
+
+#show-form {
+    font-family: marvel;
+    font-size: 20px;
+}
